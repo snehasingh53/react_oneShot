@@ -1,0 +1,5 @@
+hooks:
+    -> special types of function that provide powerful features in react like state management 
+    -> for lifecycle methods 
+    -> for optimization 
+    -> 

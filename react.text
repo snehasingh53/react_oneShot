@@ -1,0 +1,11 @@
+ 
+
+ React create a virtual DOM to prevent re-rendering 
+ of website again and again 
+ -> single page applications 
+ -> when we use react , we do not interact with real DOM 
+ 
+
+
+ Vite 
+ -> is a bundler 
